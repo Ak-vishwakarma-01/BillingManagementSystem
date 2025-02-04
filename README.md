@@ -2,8 +2,5 @@
 
 ## Report
 
-[Click here to view the report](Report.pdf)
+[Click here to view the report of this project](Report.pdf)
 
-or
-
-<iframe src="Report.pdf" width="100%" height="600px"></iframe>
